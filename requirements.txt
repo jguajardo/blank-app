@@ -1,1 +1,14 @@
+streamlit-lottie
 streamlit
+pandas
+Pillow
+PyJWT
+matplotlib
+seaborn
+plotly
+streamlit_card
+statsmodels
+streamlit-option-menu
+streamlit-vega-lite
+xlsxwriter
+jwt
